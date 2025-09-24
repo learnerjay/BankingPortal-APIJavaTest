@@ -162,7 +162,8 @@
                         <ruleset>/rulesets/java/braces.xml</ruleset>
                         <ruleset>/rulesets/java/naming.xml</ruleset>
                         <ruleset>/usr/pmd/rulesets/strings.xml</ruleset>
-                        <ruleset>http://localhost/design.xml</ruleset>
+                        <ruleset>http://dummyurl/strings.xml</ruleset>
+                        <ruleset>http://dummyurl/design.xml</ruleset>
                     </rulesets>
 
                 </configuration>
